@@ -61,6 +61,7 @@ namespace AntColonyOptimization.Tests
             {
                 _output.WriteLine(cityId.ToString());
             }
+            _output.WriteLine("Distance: " + bestTrail.Distance);
         }
     }
 }
