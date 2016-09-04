@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntColonyOptimization", "AntColonyOptimization\AntColonyOptimization.csproj", "{3990BE3B-6376-4F2D-9C10-EC9C2CFFF1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntColonyOptimization.Tests", "AntColonyOptimization.Tests\AntColonyOptimization.Tests.csproj", "{1BDBE625-433F-4E17-97B2-41F9BE643CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3990BE3B-6376-4F2D-9C10-EC9C2CFFF1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3990BE3B-6376-4F2D-9C10-EC9C2CFFF1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3990BE3B-6376-4F2D-9C10-EC9C2CFFF1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3990BE3B-6376-4F2D-9C10-EC9C2CFFF1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDBE625-433F-4E17-97B2-41F9BE643CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDBE625-433F-4E17-97B2-41F9BE643CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDBE625-433F-4E17-97B2-41F9BE643CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDBE625-433F-4E17-97B2-41F9BE643CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
